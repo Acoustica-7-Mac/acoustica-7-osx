@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/acoustica">  
+<a href="https://top-ssilka-apps.github.io/.github/acoustica">  
 <img src="https://img.shields.io/badge/💻_GET_Acoustica_7-gold?style=for-the-badge&logo=apple" alt="GET Acoustica 7">  
 </a>  
 </div>
